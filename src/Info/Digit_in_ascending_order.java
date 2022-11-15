@@ -19,7 +19,7 @@ public class Digit_in_ascending_order {
 		/*for(int i=0;i<ch.length;i++) {
 			System.out.print(ch[i]);
 		}*/
-		
+		System.out.println("No changes");
 		//using for each loop
 		for(char s1:ch)
 			System.out.print(s1);
